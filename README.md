@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Fisayo, a freelance Mobile developer and Electronics hobbyihobbyist 👨‍💻</div>  
+### <div align="center">I'm Fisayo, a freelance Mobile developer and Electronics hobbyist 👨‍💻</div>  
   
 
 - 🌱 I’m currently learning Flutter and Dart  
